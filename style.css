@@ -1,0 +1,174 @@
+.container {
+  display: flex;
+}
+html{
+  background: black;
+}
+p{
+  text-align: center;
+}
+#day{
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  margin: 10px;
+  width:400px ;
+  height: 100px;
+  font-family: Serif;
+}
+.one{
+  height: 100px;
+  width: 100px;
+  background: lightgreen;
+  margin: 10px;
+}
+.two{
+  height: 100px;
+  width: 100px;
+  background: pink;
+  margin: 10px;
+}
+.three{
+  width: 100px;
+  height: 100px;
+  background: blue;
+  margin: 10px;
+}
+.four{
+  height: 100px;
+  width: 100px;
+  background: silver;
+  margin: 10px;
+}
+.five{
+  height: 100px;
+  width: 100px;
+  background: Gold;
+  margin: 10px;
+}
+.six{
+  height: 100px;
+  width: 100px;
+  background: Brown;
+  margin: 10px;
+}
+.seven{
+  height: 100px;
+  width: 100px;
+  background: Turquoise ;
+  margin: 10px;
+}
+.eight{
+  height: 100px;
+  width: 100px;
+  background: Grey;
+  margin: 10px;
+}
+.nine{
+  height: 100px;
+  width: 100px;
+  background: orange;
+  margin: 10px;
+}
+.ten{
+  height: 100px;
+  width: 100px;
+  background: purple;
+  margin: 10px;
+}
+.eleven{
+  height: 100px;
+  width: 100px;
+  background: violet;
+  margin: 10px;
+}
+.twelve{
+  height: 100px;
+  width: 100px;
+  background: cyan;
+  margin: 10px;
+}
+.thirteen{
+  height: 100px;
+  width: 100px;
+  background: teal;
+  margin: 10px;
+}
+.fourteen{
+  height: 100px;
+  width: 100px;
+  background: coral;
+  margin: 10px;
+}
+.fifteen{
+  height: 100px;
+  width: 100px;
+  background: magenta;
+  margin: 10px;
+}
+.sixteen{
+  height: 100px;
+  width: 100px;
+  background: yellow;
+  margin: 10px;
+}
+.seventeen{
+  height: 100px;
+  width: 100px;
+  background: red;
+  margin: 10px;
+}
+.eighteen{
+  height: 100px;
+  width: 100px;
+  background: darkgreen;
+  margin: 10px;
+}
+.nineteen{
+  height: 100px;
+  width: 100px;
+  background: lightblue;
+  margin: 10px;
+}
+.twenty{
+  height: 100px;
+  width: 100px;
+  background: beige;
+  margin: 10px;
+}
+.twentyone{
+  height: 100px;
+  width: 100px;
+  background: indigo;
+  margin: 10px;
+}
+.twentytwo{
+  height: 100px;
+  width: 100px;
+  background: ivory;
+  margin: 10px;
+}
+.twentythree{
+  height: 100px;
+  width: 100px;
+  background: crimson;
+  margin: 10px;
+}
+.twentyfour{
+  height: 100px;
+  width: 100px;
+  background: khaki;
+  margin: 10px;
+}
+.twentyfive{
+  height: 100px;
+  width: 100px;
+  background: sienna;
+  margin: 10px;
+}
+.twentysix{
+  height: 100px;
+  width: 100px;
+  background: navy;
+  margin: 10px;
+}
